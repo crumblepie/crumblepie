@@ -2,7 +2,7 @@
 
 ### Glad to see you here!
 
-I am a full-stack software engineer and former tech lawyer based in New York and Sydney. 
+I am a full-stack software engineer and former tech lawyer based in New York.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for beautiful, innovative and intuitive design to create the best user experiences. 
 
