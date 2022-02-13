@@ -2,14 +2,14 @@
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CF7E3&size=28&duration=3000&width=1000&lines=Welcome+to+my+GitHub;Full+stack+software+engineer+and+former+tech+lawyer;Based+in+New+York+and+Sydney)](https://git.io/typing-svg)
 
-### Glad to see you here!
+## Glad to see you here!
 
 I am a full-stack software engineer and former tech lawyer based in New York and Sydney.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for beautiful, innovative and intuitive design to create the best user experiences. 
 
 
-### 🛠 Languages and Tools 
+## 🛠 Languages and Tools 
 
 JavaScript-ES6+, Solidity, React (+Hooks), Redux, Node.js, Express, TypeScript, Webpack, CSS, SASS, TailwindUI, Styled Components, JWTs, RESTful APIs, GraphQL, Docker, Web3.js, Hardhat, SQL (PostgreSQL), NoSQL (MongoDB, ODM: Mongoose), Testing Frameworks (Jest, Enzyme, Supertest, Mocha/Chai, Puppeteer), Cloud (AWS).
 
