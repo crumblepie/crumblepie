@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Rain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CF7E3&size=25&duration=3000&width=1000&lines=Welcome+to+my+GitHub;Full+stack+software+engineer+and+former+tech+lawyer;Based+in+New+York+and+Sydney)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CF7E3&size=28&duration=3000&width=1000&lines=Welcome+to+my+GitHub;Full+stack+software+engineer+and+former+tech+lawyer;Based+in+New+York+and+Sydney)](https://git.io/typing-svg)
 
 ### Glad to see you here!
 
