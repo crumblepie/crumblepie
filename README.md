@@ -13,11 +13,6 @@ JavaScript-ES6+, Solidity, React (+Hooks), Redux, Node.js, Express, TypeScript, 
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-```text
-JavaScript    24 hours
-```
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crumblepie&show_icons=true)" />  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crumblepie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact me 
