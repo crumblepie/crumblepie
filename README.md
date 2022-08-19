@@ -44,7 +44,7 @@ JavaScript-ES6+, Solidity, React (+Hooks), Redux, Node.js, Express, TypeScript, 
    
 ## 📫 Contact me 
 
-For enquiries, reach out at rain@basecmp.io
+For enquiries, reach out at rainhpersonal@gmail.com
 
 or find me here:
 
