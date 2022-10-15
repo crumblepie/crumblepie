@@ -1,17 +1,19 @@
 <h2 align="center">Hi there, I'm Rain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CF7E3&size=28&duration=3000&width=1000&lines=Welcome+to+my+GitHub;Full+stack+software+engineer+and+former+tech+lawyer;Based+in+New+York+and+Sydney)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CF7E3&size=28&duration=3000&width=1000&lines=Welcome+to+my+GitHub;Full+stack+software+engineer+and+former+tech+lawyer;)](https://git.io/typing-svg)
 
 ## Glad to see you here!
 
-I am a full-stack software engineer and former tech lawyer based in New York and Sydney.
+I am a full-stack software engineer and former tech lawyer.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for beautiful, innovative and intuitive design to create the best user experiences. 
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for beautiful, innovative and intuitive design to create the best user experience and to make an impact by solving painful problems where my work is moving the needle. 
 
 
 ## 🛠 Languages and Tools 
 
-JavaScript-ES6+, Solidity, React (+Hooks), Redux, Node.js, Express, TypeScript, Webpack, CSS, SASS, TailwindUI, Styled Components, JWTs, RESTful APIs, GraphQL, Docker, Web3.js, Hardhat, SQL (PostgreSQL), NoSQL (MongoDB, ODM: Mongoose), Testing Frameworks (Jest, Enzyme, Supertest, Mocha/Chai, Puppeteer), Cloud (AWS).
+JavaScript-ES6+, TypeScript, React (+Hooks), Redux, Node.js, Express, Webpack, CSS, CSS preprocessors, TailwindUI, Styled Components, Authentication, RESTful APIs, GraphQL, Containerization (Docker, K8s), Relational (MySQL, PostgreSQL), NoSQL (MongoDB, ODM: Mongoose) and Key-Value (Redis) Data Stores,  Testing Frameworks (Jest, Enzyme, Supertest, Mocha/Chai, Puppeteer, React Testing Library), Cloud (AWS).
+
+Also dabbled in: Solidity, Web3.js, Hardhat.
 
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity%20-%ffffff.svg?logo=solidity&logoColor=black&backgroundColor=white"></a>
@@ -46,12 +48,14 @@ JavaScript-ES6+, Solidity, React (+Hooks), Redux, Node.js, Express, TypeScript, 
 
 For enquiries, reach out at rainhpersonal@gmail.com
 
+<!--
 or find me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rainhsu)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_rainhsu)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rainlewis/)
 
+-->
 
 <!-- 
 Here are some ideas to get you started:
