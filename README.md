@@ -4,7 +4,7 @@
 
 ## Glad to see you here!
 
-I am a full-stack software engineer and former tech lawyer.
+I am an Aussie full-stack software engineer and former tech lawyer based in New York.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for beautiful, innovative and intuitive design to create the best user experience and to make an impact by solving painful problems where my work is moving the needle. 
 
@@ -40,8 +40,8 @@ Also dabbled in: Solidity, Web3.js, Hardhat.
 </br
 <!--  -->
 
-[![Crumblepie's GitHub stats](https://github-readme-stats.vercel.app/api?username=crumblepie&hide=contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/crumblepie/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crumblepie&layout=compact&theme=radical)](https://github.com/crumblepie/github-readme-stats) 
+<!-- [![Crumblepie's GitHub stats](https://github-readme-stats.vercel.app/api?username=crumblepie&hide=contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/crumblepie/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crumblepie&layout=compact&theme=radical)](https://github.com/crumblepie/github-readme-stats)  -->
 
    
 ## 📫 Contact me 
@@ -57,15 +57,3 @@ or find me here:
 
 -->
 
-<!-- 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
