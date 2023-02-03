@@ -6,7 +6,7 @@ I am a software engineer based in New York. 🗽 In a former life, I was an atto
 
 I enjoy using my obsessive attention to detail, my unequivocal love for beautiful, innovative and intuitive design to create the best user experiences and to make an impact by solving painful problems where my work is moving the needle. 
 
-Currently I'm recreating the spreadsheet experience - making it easier to build & automate analyses with native data connections. I'm also learning to make music in my spare time. 
+Currently I'm looking for my next challenge and where I can make the most impact. I'm also learning to make music in my spare time. 
    
 ## 📫 Contact me 
 
