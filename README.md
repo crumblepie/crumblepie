@@ -5,9 +5,3 @@
 I am a software engineer based in New York. 🗽 In a former life, I was an attorney for startups and private equity and venture capital firms.  
 
 I enjoy using my obsessive attention to detail, my unequivocal love for beautiful, innovative and intuitive design to create the best user experiences and to make an impact by solving painful problems where my work is moving the needle. 
-
-Currently I'm looking for my next challenge and where I can make the most impact. I'm also learning to make music in my spare time. 
-   
-## 📫 Contact me 
-
-Reach out at rainhpersonal@gmail.com
